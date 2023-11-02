@@ -92,7 +92,7 @@ module.exports = async (status) => {
     buttons: [
       {
         label: "GitHub Repo",
-        url: "https://github.com/vlc-rpc/vlc-discord-rpc",
+        url: "https://github.com/CoachSludge/vlc-discord-rpc",
       },
     ],
   };
