@@ -12,11 +12,10 @@ This is a modified version of the [Pigpog/vlc-discord-rpc project](https://githu
 2. Install [Node.js](https://nodejs.org/en/download).
 3. Make an application and get your [Discord Application ID](https://discord.com/developers/applications).
 4. (optional) Retrieve your [Spotify API key](https://developer.spotify.com/documentation/web-api/tutorials/getting-started).
-5. Add both of these values in the `./Storage/config.js` file under the `richPresenceSettings` and `spotify` area.
-6. Edit `setup.bat` and replace the main folder path. "C:\Users\muddy\OneDrive\Desktop\vlc-discord-rpc-main"
-7. Edit `hide_node.vbs` and replace the main folder path. "C:\Users\muddy\OneDrive\Desktop\vlc-discord-rpc-main"
-8. Run `setup.bat`
-9. Run `run_commands.bat`, or create a shortcut and add it to your desktop.
+5. Add both of these values in the `master config.bat` file under the `Discord` and `Spotify` area.
+6. Change your `VLC-Discord-RPC` path under `newPath`
+7. Save and run `master config.bat`
+8. Run `start.bat`, or create a shortcut and add it to your desktop.
 
 ## Credits to Lauren1066 and jamesestes1711
 My additons is just an easier launcher and setup!
