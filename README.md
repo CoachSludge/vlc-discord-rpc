@@ -13,5 +13,9 @@ This is a modified version of the [Pigpog/vlc-discord-rpc project](https://githu
 3. Make an application and get your [Discord Application ID](https://discord.com/developers/applications).
 4. Retrieve your [Spotify API key](https://developer.spotify.com/documentation/web-api/tutorials/getting-started).
 5. Add both of these values in the `./Storage/config.js` file under the `richPresenceSettings` and `spotify` area.
-6. Open a terminal, move to the folder you downloaded from this repository, and run `npm i` then run `node .`.
+6. Edit commands.bat and replace the main folder path.
+7. Run "run_commands.vbs", or create a shortcut and add it to your desk top.
+
+## Credits to Lauren1066 and jamesestes1711
+My additons is just an easier launcher!
 
